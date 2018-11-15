@@ -1,2 +1,1 @@
-# bow-git
-học git
+# Huong dan Git co ban
