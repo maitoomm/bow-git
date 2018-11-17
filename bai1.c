@@ -23,4 +23,4 @@ int main()
 	int n;
 	tongn(n);
 }
-	
+thaí vinh hiển
